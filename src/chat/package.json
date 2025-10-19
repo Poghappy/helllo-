@@ -43,7 +43,7 @@
     "katex": "^0.16.4",
     "markdown-it": "^13.0.1",
     "markmap-common": "0.14.2",
-    "markmap-lib": "0.14.4",
+    "markmap-lib": "0.18.12",
     "markmap-view": "0.14.4",
     "md-editor-v3": "^4.17.4",
     "naive-ui": "^2.34.3",
